@@ -1,4 +1,4 @@
-#Physical Mute button for MS teams and Zoom
+# Physical Mute button for MS teams and Zoom
 
 Made using Raspberrypi Pico and coded with CircuitPython this is a physical button for muting our mic
 
